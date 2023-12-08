@@ -28,6 +28,11 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000724/versions/draft/assets/
 name: Multimodal Human Brain Imaging Data
+relatedResource:
+- name: Human brain cell census for BA 44/45
+  relation: dcite:IsDerivedFrom
+  schemaKey: Resource
+  url: https://dandiarchive.org/dandiset/000026
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
