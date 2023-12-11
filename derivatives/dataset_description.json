@@ -1,0 +1,21 @@
+{
+    "Name": "",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "MRtrix",
+            "Version": "",
+            "CodeURL": "https://github.com/MRtrix3/mrtrix3"
+        }
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "ANTs",
+            "Version": "",
+            "CodeURL": "https://github.com/ANTsX/ANTs"
+        }
+    ],
+    "HowToAcknowledge": "",
+    "License": "CC0"
+}
