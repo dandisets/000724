@@ -36,6 +36,8 @@ description: Human and macaque data
 ethicsApproval: []
 id: DANDI:000724/draft
 identifier: DANDI:000724
+keywords:
+- BRAIN CONNECTS
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
