@@ -20,8 +20,8 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: APEX Hackathon - Public data (2025). (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/000724/draft
+citation: NIH BRAIN CONNECTS Hackathon - Public data (2026). (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/000724/draft
 contributor:
 - affiliation: []
   email: kabilar@datajoint.com
@@ -32,7 +32,7 @@ contributor:
   - dcite:DataManager
   schemaKey: Person
 dateCreated: '2023-12-08T17:44:11.884029+00:00'
-description: Human and macaque data
+description: Human and macaque data for prototyping solutions during hackathons.
 ethicsApproval: []
 id: DANDI:000724/draft
 identifier: DANDI:000724
@@ -42,7 +42,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000724/versions/draft/assets/
-name: APEX Hackathon - Public data
+name: NIH BRAIN CONNECTS Hackathon - Public data
 relatedResource:
 - name: Human brain cell census for BA 44/45
   relation: dcite:IsDerivedFrom
