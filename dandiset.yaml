@@ -24,12 +24,11 @@ citation: NIH BRAIN CONNECTS Hackathon - Public data (2026). (Version draft) [Da
   set]. DANDI Archive. https://dandiarchive.org/dandiset/000724/draft
 contributor:
 - affiliation: []
-  email: kabilar@datajoint.com
+  email: kabi@mit.edu
   includeInCitation: false
   name: Gunalan, Kabilar
   roleName:
   - dcite:ContactPerson
-  - dcite:DataManager
   schemaKey: Person
 dateCreated: '2023-12-08T17:44:11.884029+00:00'
 description: Human and macaque data for prototyping solutions during hackathons.
